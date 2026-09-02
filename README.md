@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, I am Ferdiyanto Panjaitan  👋
 
 <!--
 **panjaitan-dev/panjaitan-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on **...**
+- 🌱 I’m currently learning [**Laravel**](https://laravel.com)  Frame work
+- 👯 I’m looking to collaborate on ...
+![Hello](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2d3azYzZWI0NnN4am5ua3p4eDlzczk3ejZicTJ3ZDVzeGQxODZ4ZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/6hKL8BI8rRNrMRFtAx/giphy.gif)
