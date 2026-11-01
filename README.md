@@ -1,3 +1,7 @@
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,55:24283b,100:3d59a1&height=240&section=header&text=Ferdiyanto%20Michael%20Panjaitan&fontSize=54&fontColor=c0caf5&fontAlignY=38&animation=fadeIn&desc=Software%20%C2%B7%20Engineering%20Technology&descSize=18&descColor=7aa2f7&descAlignY=58" width="100%" alt="Header" />
+</div>
+
 ## Hi there, I am Ferdiyanto Panjaitan  👋
 
 <!--
@@ -19,19 +23,12 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 -->
 
-
-<div align="center>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,55:24283b,100:3d59a1&height=240&section=header&text=Ferdiyanto%20Michael%20Panjaitan&fontSize=54&fontColor=c0caf5&fontAlignY=38&animation=fadeIn&desc=%20Software%20%C2%B7%20Engineering%20Technology&descSize=18&descColor=7aa2f7&descAlignY=58"width="100%"alt="Header" />
-</div>
-
 ![Hello](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2d3azYzZWI0NnN4am5ua3p4eDlzczk3ejZicTJ3ZDVzeGQxODZ4ZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/6hKL8BI8rRNrMRFtAx/giphy.gif)
 
 ##### Skills
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /> <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" /> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white" /> <img src="https://img.shields.io/badge/Mendeley-9D1620?style=for-the-badge&logo=mendeley&logoColor=white" /> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /> <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" /> <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" /> <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" /><img src="https://img.shields.io/badge/GoLand-000000?style=for-the-badge&logo=goland&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
-<img src="{BadgeURLHere}" />
-<img src="{BadgeURLHere}" />
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" /> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white" /> <img src="https://img.shields.io/badge/Mendeley-9D1620?style=for-the-badge&logo=mendeley&logoColor=white" /> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /> <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" /> <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" /> <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" /><img src="https://img.shields.io/badge/GoLand-000000?style=for-the-badge&logo=goland&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" /><img src=""/>
 
 ##### Connect with me
-![https://www.instagram.com/ferdiyanto_pjtn/](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![https://www.linkedin.com/in/ferdiyanto-panjaitan-432b91386/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) 
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ferdiyanto_pjtn/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ferdiyanto-panjaitan-432b91386/)
