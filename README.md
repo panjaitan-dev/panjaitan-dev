@@ -30,6 +30,11 @@
   <img src="https://raw.githubusercontent.com/panjaitan-dev/panjaitan-dev/output/snake.svg" alt="Snake animation" />
 </div>
 
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/panjaitan-dev/panjaitan-dev/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/panjaitan-dev/panjaitan-dev/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/panjaitan-dev/panjaitan-dev/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3d59a1,45:24283b,100:1a1b26&height=120&section=footer" width="100%" alt="Footer" />

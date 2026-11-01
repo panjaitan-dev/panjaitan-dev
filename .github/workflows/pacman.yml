@@ -1,0 +1,32 @@
+name: Generate Pacman
+
+on:
+  schedule:
+    - cron: "0 */12 * * *" # Berjalan setiap 12 jam
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate pacman graph
+    steps:
+      - uses: actions/checkout@v3
+      
+      - uses: vnphanquang/snake-and-pacman-contribution-graph@v2
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/pacman-contribution-graph.svg
+            dist/pacman-contribution-graph-dark.svg?palette=github-dark
+
+      - uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: pacman-output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
