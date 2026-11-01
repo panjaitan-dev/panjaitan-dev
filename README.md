@@ -33,6 +33,33 @@ Here are some ideas to get you started:
 ##### Connect with me
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ferdiyanto_pjtn/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ferdiyanto-panjaitan-432b91386/)
 
-<br/>
+<h1 data-importer="text" align="center"></h1>
 
+###
+
+<div data-importer="techs" align="center">
+</div>
+
+###
+
+<div data-importer="socials" align="center">
+</div>
+
+###
+
+<div data-importer="stats" align="center">
+  <img src="https://streak-stats.demolab.com?user=panjaitan-dev&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://raw.githubusercontent.com/panjaitan-dev/panjaitan-dev/trophy-output/trophy.svg?theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
+
+###
+
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/panjaitan-dev/panjaitan-dev/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/panjaitan-dev/panjaitan-dev/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/panjaitan-dev/panjaitan-dev/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
+
+###
+<br/>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3d59a1,45:24283b,100:1a1b26&height=120&section=footer" width="100%" alt="Footer" />
