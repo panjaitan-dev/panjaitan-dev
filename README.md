@@ -19,6 +19,11 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 -->
 
+
+<div align="center>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,55:24283b,100:3d59a1&height=240&section=header&text=Ferdiyanto%20Michael%20Panjaitan&fontSize=54&fontColor=c0caf5&fontAlignY=38&animation=fadeIn&desc=%20Software%20%C2%B7%20Engineering%20Technology&descSize=18&descColor=7aa2f7&descAlignY=58"width="100%"alt="Header" />
+</div>
+
 ![Hello](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2d3azYzZWI0NnN4am5ua3p4eDlzczk3ejZicTJ3ZDVzeGQxODZ4ZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/6hKL8BI8rRNrMRFtAx/giphy.gif)
 
 ##### Skills
