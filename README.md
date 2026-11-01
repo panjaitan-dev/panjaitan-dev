@@ -24,6 +24,7 @@
   <img src="https://streak-stats.demolab.com?user=panjaitan-dev&theme=tokyonight&hide_border=true&background=1a1b26&stroke=24283b&ring=7aa2f7&fire=bb9af7&currStreakLabel=7aa2f7&sideLabels=a9b1d6&currStreakNum=c0caf5&sideNums=c0caf5&dates=565f89" alt="Streak Stats" />
 </div>
 
+<img alt="Snake animation" src="https://raw.githubusercontent.com/panjaitan-dev/panjaitan-dev/output/snake.svg" />
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3d59a1,45:24283b,100:1a1b26&height=120&section=footer" width="100%" alt="Footer" />
